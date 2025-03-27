@@ -1,0 +1,6 @@
+[
+    ["SCNO", "ID", "NAME", "CATEGORY", "LOAD", "PREV_RDG_KWH", "RDG_MONTH", "RDG_YEAR"],
+    ["123456", "001", "Ram Bahadur", "Domestic", "5kW", "1200", "March", "2024"],
+    ["654321", "002", "Sita Devi", "Commercial", "10kW", "2500", "March", "2024"],
+    ["789012", "003", "Hari Prasad", "Industrial", "15kW", "3800", "March", "2024"]
+]
